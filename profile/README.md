@@ -1,11 +1,4 @@
-## [Mekonos Inc](https://mekonos.com/).
-Repository Managment
- 
-  - sean@mekonos.com (Admin)
-  
-  - lewis@mekonos.com (Admin)
-  
-  - bill@mekonos.com (Admin)
+
 
 <!--
 
